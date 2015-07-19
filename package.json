@@ -1,0 +1,28 @@
+{
+  "name": "common-root",
+  "version": "1.0.0",
+  "description": "Find common root folder of given paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cherrry/common-root.git"
+  },
+  "keywords": [
+    "common",
+    "shared",
+    "path"
+  ],
+  "author": "Cherry Ng <cherry92@gmail.com> (https://github.com/cherrry)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherrry/common-root/issues"
+  },
+  "homepage": "https://github.com/cherrry/common-root",
+  "devDependencies": {
+    "jest": "^0.1.40",
+    "jest-cli": "^0.4.15"
+  }
+}
